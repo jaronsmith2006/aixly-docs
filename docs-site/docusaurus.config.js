@@ -11,7 +11,7 @@ const config = {
   // - baseUrl should be: /<REPO_NAME>/  (for a project site)
   // If you deploy to a custom domain, you can change these accordingly.
   url: 'https://jaronsmith2006.github.io',
-  baseUrl: '/aixly-docs/',
+  baseUrl: '/',
 
   // Used by some deploy setups / generated links
   organizationName: 'jaronsmith2006',
