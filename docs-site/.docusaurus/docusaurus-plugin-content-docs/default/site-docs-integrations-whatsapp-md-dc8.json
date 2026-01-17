@@ -1,0 +1,27 @@
+{
+  "id": "integrations/whatsapp",
+  "title": "WhatsApp",
+  "description": "WhatsApp integration",
+  "source": "@site/../docs/integrations/whatsapp.md",
+  "sourceDirName": "integrations",
+  "slug": "/integrations/whatsapp",
+  "permalink": "/integrations/whatsapp",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "title": "WhatsApp",
+    "sidebar_position": 2
+  },
+  "sidebar": "merchantSidebar",
+  "previous": {
+    "title": "Shopify",
+    "permalink": "/integrations/shopify"
+  },
+  "next": {
+    "title": "Common issues",
+    "permalink": "/troubleshooting/common-issues"
+  }
+}

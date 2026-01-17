@@ -1,0 +1,27 @@
+{
+  "id": "features/knowledge-base",
+  "title": "Knowledge base training",
+  "description": "Why the knowledge base matters",
+  "source": "@site/../docs/features/knowledge-base.md",
+  "sourceDirName": "features",
+  "slug": "/features/knowledge-base",
+  "permalink": "/features/knowledge-base",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "title": "Knowledge base training",
+    "sidebar_position": 5
+  },
+  "sidebar": "merchantSidebar",
+  "previous": {
+    "title": "Quick actions",
+    "permalink": "/features/quick-actions"
+  },
+  "next": {
+    "title": "Settings (assistant behavior)",
+    "permalink": "/features/settings-assistant"
+  }
+}

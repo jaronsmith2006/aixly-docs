@@ -1,0 +1,27 @@
+{
+  "id": "faq",
+  "title": "FAQ",
+  "description": "Installation & setup",
+  "source": "@site/../docs/faq.md",
+  "sourceDirName": ".",
+  "slug": "/faq",
+  "permalink": "/faq",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 99,
+  "frontMatter": {
+    "title": "FAQ",
+    "sidebar_position": 99
+  },
+  "sidebar": "merchantSidebar",
+  "previous": {
+    "title": "Common issues",
+    "permalink": "/troubleshooting/common-issues"
+  },
+  "next": {
+    "title": "Changelog",
+    "permalink": "/changelog"
+  }
+}

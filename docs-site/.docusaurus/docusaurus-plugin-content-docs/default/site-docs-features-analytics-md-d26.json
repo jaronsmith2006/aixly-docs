@@ -1,0 +1,27 @@
+{
+  "id": "features/analytics",
+  "title": "Analytics",
+  "description": "Where to find it",
+  "source": "@site/../docs/features/analytics.md",
+  "sourceDirName": "features",
+  "slug": "/features/analytics",
+  "permalink": "/features/analytics",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 9,
+  "frontMatter": {
+    "title": "Analytics",
+    "sidebar_position": 9
+  },
+  "sidebar": "merchantSidebar",
+  "previous": {
+    "title": "Order requests",
+    "permalink": "/features/order-requests"
+  },
+  "next": {
+    "title": "Plans and billing",
+    "permalink": "/features/plans-billing"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "README",
+  "title": "Merchant Help Center",
+  "description": "Welcome",
+  "source": "@site/../docs/README.md",
+  "sourceDirName": ".",
+  "slug": "/",
+  "permalink": "/",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Merchant Help Center",
+    "slug": "/",
+    "unlisted": true
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "features/appearance",
+  "title": "Appearance (widget customization)",
+  "description": "Where to find it",
+  "source": "@site/../docs/features/appearance.md",
+  "sourceDirName": "features",
+  "slug": "/features/appearance",
+  "permalink": "/features/appearance",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "title": "Appearance (widget customization)",
+    "sidebar_position": 2
+  },
+  "sidebar": "merchantSidebar",
+  "previous": {
+    "title": "Storefront chat widget",
+    "permalink": "/features/widget"
+  },
+  "next": {
+    "title": "Popups and proactive engagement",
+    "permalink": "/features/popups-proactive"
+  }
+}

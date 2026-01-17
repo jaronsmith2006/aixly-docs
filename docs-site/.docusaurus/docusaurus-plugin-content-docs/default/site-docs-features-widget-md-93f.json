@@ -1,0 +1,27 @@
+{
+  "id": "features/widget",
+  "title": "Storefront chat widget",
+  "description": "What the widget does",
+  "source": "@site/../docs/features/widget.md",
+  "sourceDirName": "features",
+  "slug": "/features/widget",
+  "permalink": "/features/widget",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "title": "Storefront chat widget",
+    "sidebar_position": 1
+  },
+  "sidebar": "merchantSidebar",
+  "previous": {
+    "title": "First steps after installation",
+    "permalink": "/getting-started/first-steps"
+  },
+  "next": {
+    "title": "Appearance (widget customization)",
+    "permalink": "/features/appearance"
+  }
+}

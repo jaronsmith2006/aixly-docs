@@ -1,0 +1,122 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/",
+          "mainDocId": "README",
+          "docs": [
+            {
+              "id": "changelog",
+              "path": "/changelog",
+              "sidebar": "merchantSidebar"
+            },
+            {
+              "id": "faq",
+              "path": "/faq",
+              "sidebar": "merchantSidebar"
+            },
+            {
+              "id": "features/analytics",
+              "path": "/features/analytics",
+              "sidebar": "merchantSidebar"
+            },
+            {
+              "id": "features/appearance",
+              "path": "/features/appearance",
+              "sidebar": "merchantSidebar"
+            },
+            {
+              "id": "features/chats",
+              "path": "/features/chats",
+              "sidebar": "merchantSidebar"
+            },
+            {
+              "id": "features/knowledge-base",
+              "path": "/features/knowledge-base",
+              "sidebar": "merchantSidebar"
+            },
+            {
+              "id": "features/order-requests",
+              "path": "/features/order-requests",
+              "sidebar": "merchantSidebar"
+            },
+            {
+              "id": "features/plans-billing",
+              "path": "/features/plans-billing",
+              "sidebar": "merchantSidebar"
+            },
+            {
+              "id": "features/popups-proactive",
+              "path": "/features/popups-proactive",
+              "sidebar": "merchantSidebar"
+            },
+            {
+              "id": "features/quick-actions",
+              "path": "/features/quick-actions",
+              "sidebar": "merchantSidebar"
+            },
+            {
+              "id": "features/settings-assistant",
+              "path": "/features/settings-assistant",
+              "sidebar": "merchantSidebar"
+            },
+            {
+              "id": "features/widget",
+              "path": "/features/widget",
+              "sidebar": "merchantSidebar"
+            },
+            {
+              "id": "getting-started/first-steps",
+              "path": "/getting-started/first-steps",
+              "sidebar": "merchantSidebar"
+            },
+            {
+              "id": "getting-started/installation",
+              "path": "/getting-started/installation",
+              "sidebar": "merchantSidebar"
+            },
+            {
+              "id": "getting-started/intro",
+              "path": "/getting-started/intro",
+              "sidebar": "merchantSidebar"
+            },
+            {
+              "id": "integrations/shopify",
+              "path": "/integrations/shopify",
+              "sidebar": "merchantSidebar"
+            },
+            {
+              "id": "integrations/whatsapp",
+              "path": "/integrations/whatsapp",
+              "sidebar": "merchantSidebar"
+            },
+            {
+              "id": "README",
+              "path": "/"
+            },
+            {
+              "id": "troubleshooting/common-issues",
+              "path": "/troubleshooting/common-issues",
+              "sidebar": "merchantSidebar"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {
+            "merchantSidebar": {
+              "link": {
+                "path": "/getting-started/intro",
+                "label": "getting-started/intro"
+              }
+            }
+          }
+        }
+      ],
+      "breadcrumbs": true
+    }
+  }
+}

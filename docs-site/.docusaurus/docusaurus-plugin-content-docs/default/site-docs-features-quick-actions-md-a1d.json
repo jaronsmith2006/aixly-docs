@@ -1,0 +1,27 @@
+{
+  "id": "features/quick-actions",
+  "title": "Quick actions",
+  "description": "What are quick actions?",
+  "source": "@site/../docs/features/quick-actions.md",
+  "sourceDirName": "features",
+  "slug": "/features/quick-actions",
+  "permalink": "/features/quick-actions",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "title": "Quick actions",
+    "sidebar_position": 4
+  },
+  "sidebar": "merchantSidebar",
+  "previous": {
+    "title": "Popups and proactive engagement",
+    "permalink": "/features/popups-proactive"
+  },
+  "next": {
+    "title": "Knowledge base training",
+    "permalink": "/features/knowledge-base"
+  }
+}

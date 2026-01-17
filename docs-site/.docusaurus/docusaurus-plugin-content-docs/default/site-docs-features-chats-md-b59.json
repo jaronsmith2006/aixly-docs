@@ -1,0 +1,27 @@
+{
+  "id": "features/chats",
+  "title": "Chats (inbox)",
+  "description": "Where to find it",
+  "source": "@site/../docs/features/chats.md",
+  "sourceDirName": "features",
+  "slug": "/features/chats",
+  "permalink": "/features/chats",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 7,
+  "frontMatter": {
+    "title": "Chats (inbox)",
+    "sidebar_position": 7
+  },
+  "sidebar": "merchantSidebar",
+  "previous": {
+    "title": "Settings (assistant behavior)",
+    "permalink": "/features/settings-assistant"
+  },
+  "next": {
+    "title": "Order requests",
+    "permalink": "/features/order-requests"
+  }
+}

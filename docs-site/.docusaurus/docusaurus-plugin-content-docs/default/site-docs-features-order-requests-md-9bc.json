@@ -1,0 +1,27 @@
+{
+  "id": "features/order-requests",
+  "title": "Order requests",
+  "description": "What are order requests?",
+  "source": "@site/../docs/features/order-requests.md",
+  "sourceDirName": "features",
+  "slug": "/features/order-requests",
+  "permalink": "/features/order-requests",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 8,
+  "frontMatter": {
+    "title": "Order requests",
+    "sidebar_position": 8
+  },
+  "sidebar": "merchantSidebar",
+  "previous": {
+    "title": "Chats (inbox)",
+    "permalink": "/features/chats"
+  },
+  "next": {
+    "title": "Analytics",
+    "permalink": "/features/analytics"
+  }
+}
