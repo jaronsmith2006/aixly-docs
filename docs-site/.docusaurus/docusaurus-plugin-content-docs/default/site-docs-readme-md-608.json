@@ -1,6 +1,6 @@
 {
   "id": "README",
-  "title": "Merchant Help Center",
+  "title": "README",
   "description": "Welcome",
   "source": "@site/../docs/README.md",
   "sourceDirName": ".",
@@ -10,9 +10,5 @@
   "unlisted": false,
   "tags": [],
   "version": "current",
-  "frontMatter": {
-    "title": "Merchant Help Center",
-    "slug": "/",
-    "unlisted": true
-  }
+  "frontMatter": {}
 }

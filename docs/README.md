@@ -1,9 +1,3 @@
----
-title: Merchant Help Center
-slug: /
-unlisted: true
----
-
 ## Welcome
 
 This `docs/` directory is intended to be copied into a **separate Docusaurus repo** and published as a merchant help center.
