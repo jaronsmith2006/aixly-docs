@@ -6,9 +6,16 @@ const config = {
   tagline: 'Help docs for merchants using the AI Chatbot app',
   favicon: 'img/favicon.svg',
 
-  // Update these when you deploy
-  url: 'https://example.com',
-  baseUrl: '/',
+  // GitHub Pages deployment settings:
+  // - url should be: https://<GITHUB_USERNAME>.github.io
+  // - baseUrl should be: /<REPO_NAME>/  (for a project site)
+  // If you deploy to a custom domain, you can change these accordingly.
+  url: 'https://jaronsmith2006.github.io',
+  baseUrl: '/aixly-docs/',
+
+  // Used by some deploy setups / generated links
+  organizationName: 'jaronsmith2006',
+  projectName: 'aixly-docs',
 
   onBrokenLinks: 'throw',
   markdown: {
