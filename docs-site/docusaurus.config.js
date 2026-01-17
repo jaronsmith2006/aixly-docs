@@ -40,6 +40,8 @@ const config = {
           routeBasePath: '/',
           sidebarPath: './sidebars.js',
           editUrl: undefined,
+          // Don't publish internal maintenance docs
+          exclude: ['README.md'],
         },
         blog: false,
         theme: {
@@ -54,8 +56,20 @@ const config = {
     ({
       navbar: {
         title: 'Help Center',
+        logo: {
+          alt: 'Help Center',
+          // Place your logo file in: docs-site/static/img/
+          // Then update this to e.g. 'img/logo.svg'
+          src: 'img/favicon.svg',
+        },
         items: [
-          {type: 'docSidebar', sidebarId: 'merchantSidebar', position: 'left', label: 'Docs'},
+          // Because routeBasePath is '/', all doc URLs are at the site root:
+          // e.g. '/getting-started/intro', '/faq', etc.
+          {to: '/', label: 'Getting started', position: 'left'},
+          {to: '/features/appearance', label: 'Features', position: 'left'},
+          {to: '/integrations/shopify', label: 'Integrations', position: 'left'},
+          {to: '/faq', label: 'FAQ', position: 'left'},
+          {to: '/changelog', label: 'Changelog', position: 'left'},
         ],
       },
       footer: {

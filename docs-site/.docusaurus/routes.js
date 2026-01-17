@@ -3,16 +3,51 @@ import ComponentCreator from '@docusaurus/ComponentCreator';
 
 export default [
   {
+    path: '/__docusaurus/debug',
+    component: ComponentCreator('/__docusaurus/debug', '5ff'),
+    exact: true
+  },
+  {
+    path: '/__docusaurus/debug/config',
+    component: ComponentCreator('/__docusaurus/debug/config', '5ba'),
+    exact: true
+  },
+  {
+    path: '/__docusaurus/debug/content',
+    component: ComponentCreator('/__docusaurus/debug/content', 'a2b'),
+    exact: true
+  },
+  {
+    path: '/__docusaurus/debug/globalData',
+    component: ComponentCreator('/__docusaurus/debug/globalData', 'c3c'),
+    exact: true
+  },
+  {
+    path: '/__docusaurus/debug/metadata',
+    component: ComponentCreator('/__docusaurus/debug/metadata', '156'),
+    exact: true
+  },
+  {
+    path: '/__docusaurus/debug/registry',
+    component: ComponentCreator('/__docusaurus/debug/registry', '88c'),
+    exact: true
+  },
+  {
+    path: '/__docusaurus/debug/routes',
+    component: ComponentCreator('/__docusaurus/debug/routes', '000'),
+    exact: true
+  },
+  {
     path: '/',
-    component: ComponentCreator('/', 'de7'),
+    component: ComponentCreator('/', '271'),
     routes: [
       {
         path: '/',
-        component: ComponentCreator('/', '353'),
+        component: ComponentCreator('/', 'd4d'),
         routes: [
           {
             path: '/',
-            component: ComponentCreator('/', '762'),
+            component: ComponentCreator('/', '2e0'),
             routes: [
               {
                 path: '/changelog',
@@ -99,12 +134,6 @@ export default [
                 sidebar: "merchantSidebar"
               },
               {
-                path: '/getting-started/intro',
-                component: ComponentCreator('/getting-started/intro', 'd0d'),
-                exact: true,
-                sidebar: "merchantSidebar"
-              },
-              {
                 path: '/integrations/shopify',
                 component: ComponentCreator('/integrations/shopify', '335'),
                 exact: true,
@@ -124,8 +153,9 @@ export default [
               },
               {
                 path: '/',
-                component: ComponentCreator('/', 'cde'),
-                exact: true
+                component: ComponentCreator('/', '9a6'),
+                exact: true,
+                sidebar: "merchantSidebar"
               }
             ]
           }

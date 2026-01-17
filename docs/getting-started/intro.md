@@ -1,6 +1,7 @@
 ---
 title: Introduction
 sidebar_position: 1
+slug: /
 ---
 
 ## What this app does

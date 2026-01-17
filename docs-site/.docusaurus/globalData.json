@@ -8,7 +8,7 @@
           "label": "Next",
           "isLast": true,
           "path": "/",
-          "mainDocId": "README",
+          "mainDocId": "getting-started/intro",
           "docs": [
             {
               "id": "changelog",
@@ -82,7 +82,7 @@
             },
             {
               "id": "getting-started/intro",
-              "path": "/getting-started/intro",
+              "path": "/",
               "sidebar": "merchantSidebar"
             },
             {
@@ -96,10 +96,6 @@
               "sidebar": "merchantSidebar"
             },
             {
-              "id": "README",
-              "path": "/"
-            },
-            {
               "id": "troubleshooting/common-issues",
               "path": "/troubleshooting/common-issues",
               "sidebar": "merchantSidebar"
@@ -109,7 +105,7 @@
           "sidebars": {
             "merchantSidebar": {
               "link": {
-                "path": "/getting-started/intro",
+                "path": "/",
                 "label": "getting-started/intro"
               }
             }

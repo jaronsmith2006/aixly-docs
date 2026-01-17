@@ -18,7 +18,7 @@
   "sidebar": "merchantSidebar",
   "previous": {
     "title": "Introduction",
-    "permalink": "/getting-started/intro"
+    "permalink": "/"
   },
   "next": {
     "title": "First steps after installation",

@@ -7,8 +7,10 @@ export default {
   "title": "Merchant Help Center",
   "tagline": "Help docs for merchants using the AI Chatbot app",
   "favicon": "img/favicon.svg",
-  "url": "https://example.com",
+  "url": "https://jaronsmith2006.github.io",
   "baseUrl": "/",
+  "organizationName": "jaronsmith2006",
+  "projectName": "aixly-docs",
   "onBrokenLinks": "throw",
   "markdown": {
     "hooks": {
@@ -42,7 +44,10 @@ export default {
         "docs": {
           "path": "../docs",
           "routeBasePath": "/",
-          "sidebarPath": "./sidebars.js"
+          "sidebarPath": "./sidebars.js",
+          "exclude": [
+            "README.md"
+          ]
         },
         "blog": false,
         "theme": {
@@ -54,12 +59,35 @@ export default {
   "themeConfig": {
     "navbar": {
       "title": "Help Center",
+      "logo": {
+        "alt": "Help Center",
+        "src": "img/favicon.svg"
+      },
       "items": [
         {
-          "type": "docSidebar",
-          "sidebarId": "merchantSidebar",
-          "position": "left",
-          "label": "Docs"
+          "to": "/",
+          "label": "Getting started",
+          "position": "left"
+        },
+        {
+          "to": "/features/appearance",
+          "label": "Features",
+          "position": "left"
+        },
+        {
+          "to": "/integrations/shopify",
+          "label": "Integrations",
+          "position": "left"
+        },
+        {
+          "to": "/faq",
+          "label": "FAQ",
+          "position": "left"
+        },
+        {
+          "to": "/changelog",
+          "label": "Changelog",
+          "position": "left"
         }
       ],
       "hideOnScroll": false
