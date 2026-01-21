@@ -7,7 +7,7 @@ export default {
   "title": "Merchant Help Center",
   "tagline": "Help docs for merchants using the AI Chatbot app",
   "favicon": "img/favicon.svg",
-  "url": "https://jaronsmith2006.github.io",
+  "url": "https://docs.aixly.io",
   "baseUrl": "/",
   "organizationName": "jaronsmith2006",
   "projectName": "aixly-docs",

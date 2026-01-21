@@ -3,10 +3,10 @@
   "private": true,
   "version": "0.1.0",
   "scripts": {
-    "start": "docusaurus start --port 3002",
-    "build": "docusaurus build",
-    "serve": "docusaurus serve --port 3002",
-    "clear": "docusaurus clear"
+    "start": "npx docusaurus start --port 3002",
+    "build": "npx docusaurus build",
+    "serve": "npx docusaurus serve --port 3002",
+    "clear": "npx docusaurus clear"
   },
   "dependencies": {
     "@docusaurus/core": "^3.6.0",

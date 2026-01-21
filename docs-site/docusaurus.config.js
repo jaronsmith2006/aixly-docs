@@ -1,6 +1,12 @@
 const {themes: prismThemes} = require('prism-react-renderer');
 
 /** @type {import('@docusaurus/types').Config} */
+const SITE_URL =
+  process.env.DOCUSAURUS_URL ||
+  process.env.SITE_URL ||
+  'https://docs.aixly.io';
+const BASE_URL = process.env.DOCUSAURUS_BASE_URL || process.env.BASE_URL || '/';
+
 const config = {
   title: 'Merchant Help Center',
   tagline: 'Help docs for merchants using the AI Chatbot app',
@@ -10,8 +16,8 @@ const config = {
   // - url should be: https://<GITHUB_USERNAME>.github.io
   // - baseUrl should be: /<REPO_NAME>/  (for a project site)
   // If you deploy to a custom domain, you can change these accordingly.
-  url: 'https://jaronsmith2006.github.io',
-  baseUrl: '/',
+  url: SITE_URL,
+  baseUrl: BASE_URL,
 
   // Used by some deploy setups / generated links
   organizationName: 'jaronsmith2006',
