@@ -91,11 +91,6 @@
               "sidebar": "merchantSidebar"
             },
             {
-              "id": "integrations/whatsapp",
-              "path": "/integrations/whatsapp",
-              "sidebar": "merchantSidebar"
-            },
-            {
               "id": "troubleshooting/common-issues",
               "path": "/troubleshooting/common-issues",
               "sidebar": "merchantSidebar"
