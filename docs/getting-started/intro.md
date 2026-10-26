@@ -32,7 +32,7 @@ Shoppers always see that they're chatting with an AI assistant. The chat interfa
 
 ## What you manage inside Shopify admin
 
-- **Dashboard**: setup guide, **Aixly impact** (sales influenced, share handled by the assistant, satisfaction), storefront integration, chat activity and recent chats
+- **Dashboard**: setup guide, **Aixly impact** (sales influenced, share handled by the assistant, satisfaction), where shoppers find the chat, chat activity and recent chats
 - **Analytics**: trends, engagement funnel, revenue attribution, usage
 - **Chats**: the live inbox, and **Teach the assistant**
 - **Requests**: order requests and returns captured in chat

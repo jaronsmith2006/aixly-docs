@@ -41,8 +41,8 @@ sidebar_position: 100
 
 **Dashboard and support**
 
-- Storefront integration overview with copyable links and snippets
-- Chat activity (visitors, chats, AI replies) and recent chats with automatic tags
+- "Where shoppers find the chat" overview with copyable links and code
+- Chat activity (visitors, chats, AI replies) with trends vs the previous period, and recent chats with automatic tags
 - New **Support** page with privacy and EU compliance guidance
 
 **Widget and admin**

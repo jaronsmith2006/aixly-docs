@@ -3,7 +3,7 @@ title: Adding the chat to your store
 sidebar_position: 1.5
 ---
 
-You can use any of these at the same time; they all share the same conversation. The **Dashboard → Storefront integration** card shows what's active and has copy buttons for everything below.
+You can use any of these at the same time; they all share the same conversation. The **Dashboard → Where shoppers find the chat** card shows what's live, and has the links and code below ready to copy.
 
 ---
 
@@ -11,7 +11,7 @@ You can use any of these at the same time; they all share the same conversation.
 
 The main way to add Aixly: a chat button in the corner of every page, with optional popups and the cart reminder.
 
-- **Online Store → Themes → Customize → App embeds → Aixly AI Chatbot → Save**, or click **Enable** on the Dashboard.
+- **Online Store → Themes → Customize → App embeds → Aixly AI Chatbot → Save**, or click **Turn on** on the Dashboard.
 - Design it in **Appearance**; hide it on specific pages in **Settings → Where the chat appears**.
 
 ---
@@ -20,7 +20,7 @@ The main way to add Aixly: a chat button in the corner of every page, with optio
 
 Put the chat, always open, inside a page: product pages, a support or FAQ page, a landing page.
 
-1. Click **Add to product page** on the Dashboard, or in the theme editor choose **Add block → Apps → Aixly chat window** in any section.
+1. Click **Place on product page** on the Dashboard, or in the theme editor choose **Add block → Apps → Aixly chat window** in any section.
 2. Set the **Height** and **Maximum width** in the block settings.
 3. Save.
 
