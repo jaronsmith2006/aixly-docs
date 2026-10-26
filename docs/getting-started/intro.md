@@ -16,7 +16,7 @@ Aixly adds an **AI shopping assistant and live chat** to your Shopify store, plu
 
 ## What shoppers see
 
-- A chat button (launcher) on your storefront, in your colors and style
+- A chat button (launcher) on your storefront in your colors and style, and/or a chat window embedded in a page
 - A chat window where they can:
   - ask about products and get product cards with **Add to cart**
   - check their order status (after verifying it's their order)
@@ -26,16 +26,17 @@ Aixly adds an **AI shopping assistant and live chat** to your Shopify store, plu
 - A short rating question ("How was your chat with …?") after a live chat
 - An email with your reply and a **Continue the chat** link, if they left before you answered and shared their email
 
-The chat interface is available in English, Spanish, French, German, Italian, Portuguese, Dutch, Japanese and Chinese, and the assistant replies in the language the shopper writes in.
+Shoppers always see that they're chatting with an AI assistant. The chat interface is available in English, Spanish, French, German, Italian, Portuguese, Dutch, Japanese and Chinese, and the assistant replies in the language the shopper writes in.
 
 ---
 
 ## What you manage inside Shopify admin
 
-- **Dashboard**: setup guide and **Aixly impact** (sales influenced, conversations, share handled by the assistant, satisfaction)
+- **Dashboard**: setup guide, **Aixly impact** (sales influenced, share handled by the assistant, satisfaction), storefront integration, chat activity and recent chats
 - **Analytics**: trends, engagement funnel, revenue attribution, usage
 - **Chats**: the live inbox, and **Teach the assistant**
 - **Requests**: order requests and returns captured in chat
 - **Appearance**: widget design, chat button, popups, cart reminder, quick actions
 - **Settings**: assistant behavior, order lookup, knowledge base, live chat, notifications, privacy
 - **Plans**: your plan and usage
+- **Support**: help center, contact options, and privacy & EU compliance guidance

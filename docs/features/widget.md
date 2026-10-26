@@ -17,7 +17,7 @@ The chat widget helps shoppers:
 
 ## Where to control it
 
-- Turn it on/off: **Online Store → Themes → Customize → App embeds → Aixly AI Chatbot**
+- Turn it on/off: **Online Store → Themes → Customize → App embeds → Aixly AI Chatbot** (or add the **Aixly chat window** block to a page; see **Adding the chat to your store**)
 - Design and popups: **Appearance**
 - Assistant behavior, live chat, where it appears: **Settings**
 
@@ -25,6 +25,7 @@ The chat widget helps shoppers:
 
 ## What shoppers experience
 
+- **Clearly an AI**: a short note under the header tells shoppers they're chatting with an AI assistant (and that they can ask for a person when live chat is on).
 - **Fast, streamed answers** in the shopper's language. The interface is available in English, Spanish, French, German, Italian, Portuguese, Dutch, Japanese and Chinese.
 - **Photos and PDFs**: shoppers can attach up to 3 files per message (JPG, PNG, WebP or PDF, up to 5 MB each), for example a photo of a damaged item. The assistant can look at photos. Files are checked for safety, and only the shopper and your team can open them.
 - **Live chat**: when your team joins, the header shows "You're chatting with …", the shopper sees when you're typing, and replies arrive instantly.

@@ -23,6 +23,7 @@ const sidebars = {
     },
 
     // Standalone pages
+    'privacy-compliance',
     'faq',
     'changelog',
   ],

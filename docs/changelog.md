@@ -33,6 +33,18 @@ sidebar_position: 100
 - **Aixly impact** on the Dashboard, with stricter attribution (only shoppers who actually used the chat)
 - Cart reminder with an optional discount code
 
+**Storefront**
+
+- **Embedded chat window**: a theme block that puts the chat inside any page section
+- Open the chat from your own buttons (`data-aixly-open`) or JavaScript events (`aixly:open`)
+- Shoppers always see that they're chatting with an AI assistant
+
+**Dashboard and support**
+
+- Storefront integration overview with copyable links and snippets
+- Chat activity (visitors, chats, AI replies) and recent chats with automatic tags
+- New **Support** page with privacy and EU compliance guidance
+
 **Widget and admin**
 
 - Icon size control and custom launcher icons
