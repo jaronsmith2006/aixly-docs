@@ -1,17 +1,17 @@
 ---
-title: Knowledge base training
+title: Knowledge base and teaching the assistant
 sidebar_position: 5
 ---
 
-## Why the knowledge base matters
+## What the assistant already knows
 
-Your assistant is only as accurate as the information it can reference.
+Without any setup, the assistant reads:
 
-The knowledge base helps it answer questions about:
+- **Your catalog, live**: products, prices, variants and stock are checked at the moment a shopper asks, so they're never out of date
+- **Your policies**: refund, shipping, privacy, terms and contact policies from Shopify
+- **Your store pages**: published pages are read automatically, and re-read whenever you create or edit a page
 
-- Returns, shipping, warranty, policies
-- Sizing and care instructions
-- Store-specific FAQs
+The knowledge base is where you add everything else.
 
 ---
 
@@ -23,32 +23,41 @@ The knowledge base helps it answer questions about:
 
 ## What you can add
 
-### URLs to crawl
+### Pages (URLs)
 
-Recommended:
+FAQ pages, sizing guides, care instructions, store locations and similar. Only pages on your own store domain can be added.
 
-- policy pages
-- FAQ pages
-- sizing guides
-- product care pages
+### Questions and answers
 
-Notes:
+Short question-and-answer pairs for answers you want to control exactly. These are **used from the very next message**:
 
-- Only your own store domain (or subdomains) is allowed.
-
-### Manual FAQs
-
-Use FAQs for answers you want to control precisely (wording and tone).
+- If a shopper asks the same question (ignoring capitals and punctuation), the assistant replies with your answer word for word.
+- If they ask it differently or in another language, the assistant uses your answer as the correct one, ahead of anything else it knows or said earlier in the chat.
+- If you save the same question again, the newest answer wins.
 
 ### Documents
 
-- Supported: PDF/DOC/DOCX/TXT
-- Use the size limit shown on the page
+PDF, DOC, DOCX or TXT (up to 5 MB), for example manuals and size charts.
+
+Each source shows its status (queued, processing, trained or failed). If something fails, fix the source and add it again.
 
 ---
 
-## How to know training worked
+## Teach the assistant (Chats → Teach the assistant)
 
-- Each source shows a **status** (queued/processing/trained/failed).
-- If something fails, the UI shows an error message—fix the source and try again.
+This list collects what's worth teaching, most frequent first:
 
+- **Questions the assistant couldn't answer** from your store information, and answers shoppers rated as not helpful
+- **Answers your team gave** in live chats that would help other shoppers (shipping, policies, product details). The team's answer is filled in for you; personal details and order numbers are removed. If it disagrees with an answer you already saved, both are shown so you can choose.
+
+Click **Answer** or **Review & save**, adjust the text, and save. Nothing is added to your knowledge base without your approval.
+
+---
+
+## Correct this answer
+
+In any conversation (**Chats**), every assistant reply has **Correct this answer**. Edit the answer and save it: the assistant uses it from the next message on.
+
+:::tip
+Spend five minutes a week in **Teach the assistant**. It's the fastest way to make answers more accurate.
+:::

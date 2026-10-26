@@ -1,28 +1,41 @@
 ---
-title: Order requests
-sidebar_position: 8
+title: Order requests and returns
+sidebar_position: 9
 ---
 
 ## What are order requests?
 
-Order requests are customer order actions captured by the assistant, such as:
+When a shopper wants to change something about an order, the assistant first verifies it's their order (order number plus email or phone, or automatically for logged-in customers), then records the request for your team:
 
-- Cancel order
-- Return/refund
-- Change order
-
----
-
-## Where to find it
-
-- In the app, open **Requests**
+- Cancel an order
+- Change an order (address, items, …)
+- Return, refund or exchange
 
 ---
 
-## What you can do
+## Returns filed in Shopify
 
-- Filter requests by intent and status
-- Update request status:
-  - New / In progress / Resolved / Rejected
-- Jump to the related conversation via **View chat**
+With **Settings → Order lookup → File return requests in Shopify** on (the default):
 
+1. The assistant lists the items on the order that can still be returned.
+2. The shopper chooses the items, quantities and the reason (for example "too small" or "arrived damaged").
+3. A **return request** is created in **Shopify → Orders → Returns**, with the reason and the shopper's own words.
+4. You approve or decline it in Shopify, and Shopify emails the shopper the next steps (for example a return label).
+
+The request also appears in **Requests** with a **Return … in Shopify** badge.
+
+If an item can't be returned yet (for example the order hasn't shipped), the assistant explains that instead. If Shopify can't create the return for another reason, the request comes to **Requests** as usual, so nothing is lost.
+
+:::note
+Filing returns needs Shopify's returns permission. If you installed Aixly before this feature, Shopify asks you to approve it the next time you open the app.
+:::
+
+---
+
+## Requests page
+
+In the app, open **Requests**:
+
+- Filter by type and status
+- Update the status: New, In progress, Resolved or Rejected
+- **View chat** opens the conversation the request came from

@@ -1,6 +1,6 @@
 ---
 title: Plans and billing
-sidebar_position: 10
+sidebar_position: 11
 ---
 
 ## Where to find it
