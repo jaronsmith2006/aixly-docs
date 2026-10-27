@@ -34,6 +34,8 @@ The chat widget helps shoppers:
 - **Email follow-up**: if the shopper left before you replied and shared their email, they get your reply by email with a **Continue the chat** link that reopens the same conversation on any device. You can turn this off in **Settings → Live chat & handoff**.
 - **Mobile**: the chat opens full screen, the page behind it doesn't scroll, and the keyboard never covers the message box. While the shopper types, the chat turns compact (smaller header; quick actions and the AI note step aside) so more of the conversation stays visible above the keyboard.
 
+![The chat on a phone](/img/screens/widget-phone@2x.webp)
+
 ---
 
 ## Privacy

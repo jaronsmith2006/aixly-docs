@@ -19,6 +19,8 @@ The knowledge base is where you add everything else.
 
 - In the app, open **Settings → Knowledge base training**
 
+![Settings → Knowledge base training](/img/screens/settings-knowledge@2x.webp)
+
 ---
 
 ## What you can add
@@ -46,6 +48,8 @@ Each source shows its status (queued, processing, trained or failed). If somethi
 ## Teach the assistant (Chats → Teach the assistant)
 
 This list collects what's worth teaching, most frequent first:
+
+![Questions the assistant couldn't answer, with suggested answers](/img/screens/chats-teach@2x.webp)
 
 - **Questions the assistant couldn't answer** from your store information, and answers shoppers rated as not helpful
 - **Answers your team gave** in live chats that would help other shoppers (shipping, policies, product details). The team's answer is filled in for you; personal details and order numbers are removed. If it disagrees with an answer you already saved, both are shown so you can choose.

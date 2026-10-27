@@ -6,7 +6,7 @@ description: Invite staff to answer chats from any browser with their own sign-i
 
 Your team can answer chats from any browser with their own sign-in. They don't need a Shopify account or access to your Shopify admin.
 
-![The team inbox](/img/screens/team-inbox.webp)
+![The team inbox](/img/screens/team-inbox@2x.webp)
 
 ---
 
@@ -20,7 +20,7 @@ Your team can answer chats from any browser with their own sign-in. They don't n
 
 If email isn't set up for your store yet, the invitation link is shown so you can send it yourself with **Copy link**. Lost the email? Click **New link** next to the invitation (the old link stops working).
 
-![Settings → Team](/img/screens/settings-team.webp)
+![Settings → Team](/img/screens/settings-team@2x.webp)
 
 ---
 
@@ -38,13 +38,13 @@ The team inbox is at **app.aixly.io/team**. It's the same live inbox as in the a
 
 Click your name or photo at the top right.
 
-![Profile menu](/img/screens/team-profile-menu.webp)
+![Profile menu](/img/screens/team-profile-menu@2x.webp)
 
 - **Edit profile**: your photo and your name (what your teammates see).
 - **Change password**: enter your current password and a new one (10+ characters, with a number or symbol). Other devices are signed out; this one stays signed in.
 - **Sign out**
 
-![Your profile](/img/screens/team-profile.webp)
+![Your profile](/img/screens/team-profile@2x.webp)
 
 Photos can be JPG, PNG or WebP up to 2 MB. They're shown next to chats assigned to you.
 

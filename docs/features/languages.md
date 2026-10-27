@@ -27,7 +27,7 @@ Built in for **28 languages**: buttons, forms, the AI notice and every system li
 
 Arabic and Hebrew chats are laid out right to left.
 
-![The chat in Korean and Arabic](/img/screens/widget-languages.webp)
+![The chat in Korean and Arabic](/img/screens/widget-languages@2x.webp)
 
 ---
 
@@ -35,7 +35,7 @@ Arabic and Hebrew chats are laid out right to left.
 
 Set **Your texts are written in** to the language you type your texts in. Then, under **Translations**, click **Translate** next to a language. Languages you've translated are listed first; click **Show all 28 languages** (and use the finder) for the rest.
 
-![Settings → Languages](/img/screens/settings-languages.webp)
+![Settings → Languages](/img/screens/settings-languages@2x.webp)
 
 - Every text shoppers can see is listed (chat title, greeting, AI notice, live-chat lines, quick actions, popups, cart reminder), with your original under each field.
 - **Fill empty fields with AI** drafts the translations for you. Placeholders like `{code}` and `{name}` stay as they are. Review, then **Save translations**, then save the page.

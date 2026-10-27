@@ -11,6 +11,8 @@ Already use a helpdesk? Aixly can create a ticket there when your team needs to 
 
 Open **Settings → Helpdesk**, pick your helpdesk and fill in:
 
+![Settings → Helpdesk](/img/screens/settings-helpdesk@2x.webp)
+
 | Helpdesk | You need | Where to find it |
 |---|---|---|
 | Zendesk | Subdomain, agent email, API token | Admin Center → Apps and integrations → Zendesk API |

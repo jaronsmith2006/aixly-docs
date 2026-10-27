@@ -6,7 +6,7 @@ description: Give each conversation an owner, from the Shopify admin or the team
 
 Give each conversation an owner so the right person answers it, and nobody answers twice.
 
-![Assigning a chat to a teammate](/img/screens/assign-menu.webp)
+![Assigning a chat to a teammate](/img/screens/assign-menu@2x.webp)
 
 ---
 

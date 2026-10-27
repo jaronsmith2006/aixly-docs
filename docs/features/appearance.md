@@ -7,6 +7,8 @@ sidebar_position: 2
 
 - In the app, open **Appearance**
 
+![Appearance, with the live preview on the right](/img/screens/appearance@2x.webp)
+
 The preview on the right runs the real storefront widget with your unsaved settings, so what you see is exactly what shoppers get. Click **Save settings** when you're happy. Changes reach your storefront within a couple of minutes.
 
 ---

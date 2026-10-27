@@ -17,6 +17,8 @@ When a shopper wants to change something about an order, the assistant first ver
 
 With **Settings → Order lookup → File return requests in Shopify** on (the default):
 
+![Settings → Order lookup, with returns filed in Shopify](/img/screens/settings-order-lookup@2x.webp)
+
 1. The assistant lists the items on the order that can still be returned.
 2. The shopper chooses the items, quantities and the reason (for example "too small" or "arrived damaged").
 3. A **return request** is created in **Shopify → Orders → Returns**, with the reason and the shopper's own words.
@@ -35,6 +37,8 @@ Filing returns needs Shopify's returns permission. If you installed Aixly before
 ## Requests page
 
 In the app, open **Requests**:
+
+![The Requests page](/img/screens/requests@2x.webp)
 
 - Filter by type and status
 - Update the status: New, In progress, Resolved or Rejected

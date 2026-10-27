@@ -26,6 +26,8 @@ Aixly adds an **AI shopping assistant and live chat** to your Shopify store, plu
 - A short rating question ("How was your chat with …?") after a live chat
 - An email with your reply and a **Continue the chat** link, if they left before you answered and shared their email
 
+![The Aixly chat on a store: answers with products shoppers can open or add to the cart](/img/screens/widget-store@2x.webp)
+
 Shoppers always see that they're chatting with an AI assistant. The chat follows your store's language (or the shopper's browser, or one language you choose) with everything built in for 28 languages (including right-to-left Arabic and Hebrew), and your own texts can be translated in one click. The assistant replies in the language the shopper writes in.
 
 ---

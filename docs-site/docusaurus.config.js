@@ -35,6 +35,9 @@ const config = {
     locales: ['en'],
   },
 
+  // Screenshots: real-size display and click to enlarge.
+  clientModules: [require.resolve('./src/clientModules/imageZoom.js')],
+
   // Search across every help article (index built with the site, no external service).
   themes: [
     [

@@ -11,6 +11,8 @@ You can use any of these at the same time; they all share the same conversation.
 
 The main way to add Aixly: a chat button in the corner of every page, with optional popups and the cart reminder.
 
+![Overview → Where shoppers find the chat](/img/screens/storefront-placements@2x.webp)
+
 - **Online Store → Themes → Customize → App embeds → Aixly AI Chatbot → Save**, or click **Turn on** on the Dashboard.
 - Design it in **Appearance**; hide it on specific pages in **Settings → Where the chat appears**.
 

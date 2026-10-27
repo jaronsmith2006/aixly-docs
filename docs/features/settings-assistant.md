@@ -13,11 +13,15 @@ sidebar_position: 6
 
 Chat with your assistant right inside Settings. It works exactly like the live widget but doesn't count toward your conversation quota, and it never creates real requests or returns.
 
+![Try your bot](/img/screens/settings-try-bot@2x.webp)
+
 ---
 
 ## Order lookup (verification)
 
 Shoppers must prove an order is theirs before seeing its details. Choose what they enter together with the order number:
+
+![Order lookup](/img/screens/settings-order-lookup@2x.webp)
 
 - Email only
 - Phone only
@@ -48,6 +52,8 @@ Suggest a specific link when shoppers ask about a topic, for example "Book a tes
 - Humor and emoji use
 - Assistant name
 - Your own instructions (brand voice, things to always mention)
+
+![Tone and response style](/img/screens/settings-style@2x.webp)
 
 Your instructions shape the tone, but they can't make the assistant invent prices, stock or policies: those always come from your store.
 
@@ -88,6 +94,8 @@ Topics the assistant should politely decline (for example competitors or medical
 - **Hide on the cart page**
 - **Hide on these pages**: paths starting with `/`, such as `/pages/contact` (subpages are included)
 
+![Where the chat appears](/img/screens/settings-visibility@2x.webp)
+
 ---
 
 ## Chat history retention
@@ -99,3 +107,5 @@ Keep conversations forever, or delete them automatically after 30 days to 2 year
 ## Notification settings
 
 - **Notification email** and **Slack incoming webhook URL** for alerts: a shopper asked for a person, a shopper has been waiting for a few minutes, or you're nearing your plan's limit
+
+![Notification settings](/img/screens/settings-notifications@2x.webp)

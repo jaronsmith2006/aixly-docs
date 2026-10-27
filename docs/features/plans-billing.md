@@ -13,6 +13,8 @@ sidebar_position: 11
 
 We offer five plans to fit stores of every size. All plans include unlimited impressions, no commissions, and all core features.
 
+![The Plans page](/img/screens/plans@2x.webp)
+
 ### Starter — Free
 
 - **Price:** $0/month

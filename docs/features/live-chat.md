@@ -23,6 +23,8 @@ The assistant summarizes the conversation for you and tells the shopper someone 
 - **Only offer live chat during business hours**: set your hours per day and **Time zone**
 - **Email shoppers the replies they missed**: see below
 
+![Settings → Live chat & handoff](/img/screens/settings-live-chat@2x.webp)
+
 Your team counts as available while someone has the app open in Shopify admin (any page) or the **team inbox** open.
 
 ### Online, Away, Offline
@@ -40,11 +42,15 @@ The badge next to the inbox tabs shows your status. Click it to switch:
 - **In the app**: a sound and a notification on any page when a shopper is waiting or writes in a live chat. Turn the sound on or off with **Sound alerts** on the Chats page (saved per browser).
 - **Email / Slack**: right away when a shopper asks for a person, and a reminder if a shopper has waited 3 minutes without a reply (once per wait). Set the recipients in **Settings → Notification settings**.
 
+![Settings → Notification settings](/img/screens/settings-notifications@2x.webp)
+
 ---
 
 ## Chatting
 
 Open the conversation in **Chats** and reply. Sending a reply joins the chat and pauses the assistant (you can also click **Join chat**).
+
+![What the shopper sees once a teammate joins](/img/screens/widget-live-chat@2x.webp)
 
 - **See what the shopper is typing** before they send it, live
 - The shopper sees when you're typing

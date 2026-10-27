@@ -13,6 +13,8 @@ Everything updates live: new messages, shoppers typing, and takeovers by teammat
 
 ## Inbox
 
+
+![Chats: the inbox with a hand-off waiting for the team](/img/screens/chats-admin@2x.webp)
 ### Finding conversations
 
 - **Needs reply**: shoppers waiting for your team, and live chats with unread messages

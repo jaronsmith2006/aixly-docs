@@ -7,6 +7,8 @@ sidebar_position: 3
 
 - In the app, open **Appearance → Popups**
 
+![Appearance → Popups](/img/screens/appearance-popups@2x.webp)
+
 The preview shows the popup you're editing.
 
 ---

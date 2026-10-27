@@ -34,6 +34,8 @@ sidebar_position: 3
 
 Use **Settings → Try your bot**, or open your storefront in a private window and ask:
 
+![Settings → Try your bot](/img/screens/settings-try-bot@2x.webp)
+
 - "What's your return policy?"
 - "Do you have this in size M?"
 - "Where is my order?"

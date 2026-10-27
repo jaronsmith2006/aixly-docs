@@ -18,6 +18,8 @@ Shopify asks you to approve them the next time you open the app after the update
 
 Open **Dashboard**. The **Setup Guide** walks you through:
 
+![Overview: Aixly impact and the Setup Guide](/img/screens/overview@2x.webp)
+
 - **AI processing**: your store pages and policies are read so the assistant can answer questions about them. This usually takes a minute or two. Products, prices and stock are always read live.
 - **Turn on the widget**: opens your theme editor
 - **Check it's live**: confirms the chat button appears on your storefront

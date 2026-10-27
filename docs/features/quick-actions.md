@@ -21,6 +21,8 @@ On phones they sit in one row that shoppers can swipe; on larger screens they wr
 
 - In the app, open **Appearance → Quick actions** (up to 6)
 
+![Appearance → Quick actions](/img/screens/appearance-quick-actions@2x.webp)
+
 ---
 
 ## Action types

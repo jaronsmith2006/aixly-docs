@@ -7,6 +7,8 @@ sidebar_position: 10
 
 The top of your **Dashboard** shows the last 30 days:
 
+![Aixly impact on the Overview page](/img/screens/overview@2x.webp)
+
 - **Sales influenced**: revenue and orders from shoppers who used Aixly before buying (see below)
 - **Conversations**
 - **Handled by the assistant**: the share of conversations resolved without your team
@@ -30,6 +32,8 @@ Logged-in customers are matched even if they order on another device. Simply ope
 
 In the app, open **Analytics**:
 
+![Analytics: conversations, deflection, satisfaction and revenue per day](/img/screens/analytics@2x.webp)
+
 - Conversations and trends
 - Escalations to your team
 - Engagement funnel (widget loads → opens → messages → product clicks → add to cart → checkout)
@@ -44,3 +48,5 @@ In the app, open **Analytics**:
 - Many conversations but few product clicks: add quick actions for bestsellers, and make your greeting invite product questions.
 - Many escalations about the same topic: answer it once in **Teach the assistant**.
 - Low satisfaction: read the comments on low ratings in **Chats**, and set up saved replies for consistent answers.
+
+![Engagement funnel and revenue attribution](/img/screens/analytics-funnel@2x.webp)
