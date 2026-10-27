@@ -15,7 +15,7 @@ No. It uses a theme app embed, which you can switch off at any time.
 
 ### Which languages are supported?
 
-The assistant replies in the language the shopper writes in. The chat interface (buttons, forms) is available in English, Spanish, French, German, Italian, Portuguese, Dutch, Japanese and Chinese, following your store's language.
+The assistant replies in the language the shopper writes in. The chat interface is built in for English, Spanish, French, German, Italian, Portuguese, Dutch, Japanese and Chinese, and follows your store's language (or the shopper's browser, or one language you choose). Translate your own texts in **Settings → Languages**, with AI help.
 
 ---
 
@@ -41,9 +41,17 @@ No. Order details are only shown after the shopper proves it's their order (orde
 
 Yes. When a shopper asks for a person, your team replies from **Chats** and the assistant pauses. See **Live chat**.
 
+### Can my staff answer chats without access to my Shopify admin?
+
+Yes. Invite them in **Settings → Team**; they sign in to the team inbox with their own account. See **Team inbox**.
+
+### Can tickets go to my helpdesk?
+
+Yes: Zendesk, Freshdesk, Gorgias, Help Scout or any system via webhook. See **Integrations → Helpdesk**.
+
 ### Do I need to keep the app open?
 
-Your team counts as available while someone has the app open in Shopify admin. You also get email/Slack alerts, including a reminder when a shopper has waited 3 minutes.
+Your team counts as available while someone has the app or the team inbox open. You also get email/Slack alerts, including a reminder when a shopper has waited 3 minutes.
 
 ### What if the shopper has already left?
 

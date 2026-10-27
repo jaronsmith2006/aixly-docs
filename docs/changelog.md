@@ -3,6 +3,15 @@ title: Changelog
 sidebar_position: 100
 ---
 
+## October 2026 (update 2)
+
+- **Team inbox**: invite staff to answer chats with their own sign-in, no Shopify access needed (agent and manager roles)
+- **Helpdesk connections**: tickets in Zendesk, Freshdesk, Gorgias, Help Scout or any system via webhook
+- **Languages**: choose the chat language (store, browser or fixed), translate every text with AI help, reword all hand-off lines
+- Phones: the page behind the chat no longer scrolls or shows through above the keyboard
+
+---
+
 ## October 2026
 
 **Live chat**

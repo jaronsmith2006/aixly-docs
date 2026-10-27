@@ -23,7 +23,7 @@ The assistant summarizes the conversation for you and tells the shopper someone 
 - **Only offer live chat during business hours**: set your hours per day and **Time zone**
 - **Email shoppers the replies they missed**: see below
 
-Your team counts as available while someone has the app open in Shopify admin (any page).
+Your team counts as available while someone has the app open in Shopify admin (any page) or the **team inbox** open.
 
 ---
 

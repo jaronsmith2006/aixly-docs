@@ -55,7 +55,25 @@ Your instructions shape the tone, but they can't make the assistant invent price
 
 ## Live chat & handoff
 
-See **Live chat**.
+See **Live chat**. All the lines shoppers see during a hand-off can be reworded here.
+
+---
+
+## Team
+
+Invite people to the team inbox. See **Team inbox**.
+
+---
+
+## Helpdesk
+
+Create tickets in Zendesk, Freshdesk, Gorgias, Help Scout or any system. See **Integrations → Helpdesk**.
+
+---
+
+## Languages
+
+See **Languages**.
 
 ---
 
