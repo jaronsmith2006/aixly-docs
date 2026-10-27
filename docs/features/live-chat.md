@@ -25,6 +25,14 @@ The assistant summarizes the conversation for you and tells the shopper someone 
 
 Your team counts as available while someone has the app open in Shopify admin (any page) or the **team inbox** open.
 
+### Online, Away, Offline
+
+The badge next to the inbox tabs shows your status. Click it to switch:
+
+- **Online**: shoppers who ask for a person are offered live chat while you have the app open.
+- **Away**: having the app open doesn't offer shoppers live chat. Use it when you step away and leave the tab open. Teammates who are online can still take chats. Saved per browser.
+- **Offline**: live chat is off, or it's outside your business hours. Shoppers leave their email or phone instead. Change this in **Settings → Live chat & handoff**.
+
 ---
 
 ## Alerts, so nobody waits
@@ -50,7 +58,12 @@ Open the conversation in **Chats** and reply. Sending a reply joins the chat and
 
 Click **Hand back to AI** when you're done, or **Close** the conversation. The shopper is then asked to rate the chat (1–5 stars); the rating appears on the conversation and in **Aixly impact** on your dashboard.
 
-If nobody from the team replies for a while, the assistant takes over again automatically so the shopper is never stuck.
+If nobody from the team replies, the assistant takes over again so the shopper is never stuck:
+
+- **Nobody joined** within 5 minutes of the hand-off (your team gets a reminder at 3 minutes).
+- **Someone joined** but hasn't replied or typed for 10 minutes.
+
+The shopper then sees: *"Our team couldn't join right now, so the assistant will keep helping. Leave your email or phone if you'd like the team to follow up."* The note stays in the conversation history. If you reply afterwards, the chat is live with your team again. Change the wording in **Settings → Live chat & handoff**.
 
 ---
 

@@ -3,6 +3,15 @@ title: Changelog
 sidebar_position: 100
 ---
 
+## October 2026 (update 4)
+
+- **Online / Away**: click your status on the Chats page to stop offering live chat while you're away from an open tab
+- Live chat: if nobody joins within 5 minutes, the assistant takes over again (10 minutes once someone has joined)
+- **Chats** in the Shopify admin: the same compact layout as the team inbox, so the conversation gets the space
+- Emails from Aixly have a new look, and new stores get a welcome email with the setup steps
+
+---
+
 ## October 2026 (update 3)
 
 - **Assigning chats**: give a chat to yourself, a teammate or the store admin; replying claims unowned chats; a **Mine** view; alerts and an email for the assignee
