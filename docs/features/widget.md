@@ -26,13 +26,13 @@ The chat widget helps shoppers:
 ## What shoppers experience
 
 - **Clearly an AI**: a short note under the header tells shoppers they're chatting with an AI assistant (and that they can ask for a person when live chat is on).
-- **Fast, streamed answers** in the shopper's language. The interface is available in English, Spanish, French, German, Italian, Portuguese, Dutch, Japanese and Chinese.
+- **Fast, streamed answers** in the shopper's language. The interface is available in 28 languages (see **Languages**), right to left for Arabic and Hebrew.
 - **Photos and PDFs**: shoppers can attach up to 3 files per message (JPG, PNG, WebP or PDF, up to 5 MB each), for example a photo of a damaged item. The assistant can look at photos. Files are checked for safety, and only the shopper and your team can open them.
 - **Live chat**: when your team joins, the header shows "You're chatting with …", the shopper sees when you're typing, and replies arrive instantly.
 - **New-message previews**: if the chat is closed when your team replies, the latest messages (up to 3) appear above the chat button with an unread count. They stay until the shopper opens the chat, even across pages.
 - **Rating**: when your team leaves a live chat, the shopper is asked "How was your chat with …?" (1–5 stars, with an optional comment for low ratings).
 - **Email follow-up**: if the shopper left before you replied and shared their email, they get your reply by email with a **Continue the chat** link that reopens the same conversation on any device. You can turn this off in **Settings → Live chat & handoff**.
-- **Mobile**: the chat opens full screen, the page behind it doesn't scroll, and the keyboard never covers the message box.
+- **Mobile**: the chat opens full screen, the page behind it doesn't scroll, and the keyboard never covers the message box. While the shopper types, the chat turns compact (smaller header; quick actions and the AI note step aside) so more of the conversation stays visible above the keyboard.
 
 ---
 

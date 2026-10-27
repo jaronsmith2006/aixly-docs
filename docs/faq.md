@@ -15,7 +15,7 @@ No. It uses a theme app embed, which you can switch off at any time.
 
 ### Which languages are supported?
 
-The assistant replies in the language the shopper writes in. The chat interface is built in for English, Spanish, French, German, Italian, Portuguese, Dutch, Japanese and Chinese, and follows your store's language (or the shopper's browser, or one language you choose). Translate your own texts in **Settings → Languages**, with AI help.
+The assistant replies in the language the shopper writes in. The chat interface is built in for 28 languages (including Korean, Hindi, Arabic and Hebrew, laid out right to left), and follows your store's language (or the shopper's browser, or one language you choose). Translate your own texts in **Settings → Languages**, with AI help.
 
 ---
 
@@ -44,6 +44,14 @@ Yes. When a shopper asks for a person, your team replies from **Chats** and the 
 ### Can my staff answer chats without access to my Shopify admin?
 
 Yes. Invite them in **Settings → Team**; they sign in to the team inbox with their own account. See **Team inbox**.
+
+### Can I give a chat to a specific person?
+
+Yes. Click **Assign** in the conversation and choose a teammate or the store admin. They're notified, and it appears under **Mine** for them. See **Assigning chats**.
+
+### Can team members change their name, password or photo?
+
+Yes, from their name at the top right of the team inbox (**Edit profile**, **Change password**).
 
 ### Can tickets go to my helpdesk?
 

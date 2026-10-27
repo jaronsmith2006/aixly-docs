@@ -3,6 +3,17 @@ title: Changelog
 sidebar_position: 100
 ---
 
+## October 2026 (update 3)
+
+- **Assigning chats**: give a chat to yourself, a teammate or the store admin; replying claims unowned chats; a **Mine** view; alerts and an email for the assignee
+- **Team inbox**: a cleaner layout with more room for the conversation, a profile menu (name, photo, password)
+- **28 chat languages**: added Arabic, Czech, Danish, Greek, Finnish, Hebrew, Hindi, Hungarian, Indonesian, Korean, Norwegian, Polish, Romanian, Russian, Swedish, Thai, Turkish, Ukrainian and Vietnamese; right-to-left layout for Arabic and Hebrew
+- Phones: while typing, the chat turns compact so more of the conversation stays visible above the keyboard
+- Settings → Team: the invitation link fits the page, with **Copy link** and **New link**
+- **Help Center**: search, and screenshots in the articles
+
+---
+
 ## October 2026 (update 2)
 
 - **Team inbox**: invite staff to answer chats with their own sign-in, no Shopify access needed (agent and manager roles)

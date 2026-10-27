@@ -35,6 +35,24 @@ const config = {
     locales: ['en'],
   },
 
+  // Search across every help article (index built with the site, no external service).
+  themes: [
+    [
+      require.resolve('@easyops-cn/docusaurus-search-local'),
+      {
+        hashed: true,
+        indexDocs: true,
+        indexBlog: false,
+        indexPages: false,
+        docsRouteBasePath: '/',
+        highlightSearchTermsOnTargetPage: true,
+        explicitSearchResultPath: true,
+        searchResultLimits: 10,
+        searchBarShortcutHint: true,
+      },
+    ],
+  ],
+
   presets: [
     [
       'classic',
@@ -76,6 +94,7 @@ const config = {
           {to: '/integrations/shopify', label: 'Integrations', position: 'left'},
           {to: '/faq', label: 'FAQ', position: 'left'},
           {to: '/changelog', label: 'Changelog', position: 'left'},
+          {type: 'search', position: 'right'},
         ],
       },
       footer: {

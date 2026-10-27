@@ -9,7 +9,7 @@ slug: /
 Aixly adds an **AI shopping assistant and live chat** to your Shopify store, plus an inbox inside your Shopify admin.
 
 - The **AI assistant** answers shoppers 24/7 using your live store data: products, prices, stock, your policies, store pages and the answers you teach it. It recommends products, checks order status for verified shoppers, and files order requests and returns.
-- When a shopper needs a person, your team **joins the chat live**, from the app or from the **team inbox** with their own sign-in (no Shopify access needed). The assistant pauses while you're there and takes over again when you leave.
+- When a shopper needs a person, your team **joins the chat live**, from the app or from the **team inbox** with their own sign-in (no Shopify access needed), and can assign each chat to the right person. The assistant pauses while you're there and takes over again when you leave.
 - The assistant keeps getting better: questions it couldn't answer, and answers your team gave in live chats, appear in **Teach the assistant** for one-click approval.
 
 ---
@@ -26,7 +26,7 @@ Aixly adds an **AI shopping assistant and live chat** to your Shopify store, plu
 - A short rating question ("How was your chat with …?") after a live chat
 - An email with your reply and a **Continue the chat** link, if they left before you answered and shared their email
 
-Shoppers always see that they're chatting with an AI assistant. The chat follows your store's language (or the shopper's browser, or one language you choose) with everything built in for English, Spanish, French, German, Italian, Portuguese, Dutch, Japanese and Chinese, and your own texts can be translated in one click. The assistant replies in the language the shopper writes in.
+Shoppers always see that they're chatting with an AI assistant. The chat follows your store's language (or the shopper's browser, or one language you choose) with everything built in for 28 languages (including right-to-left Arabic and Hebrew), and your own texts can be translated in one click. The assistant replies in the language the shopper writes in.
 
 ---
 

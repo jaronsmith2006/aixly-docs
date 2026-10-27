@@ -8,3 +8,6 @@
   --ifm-color-primary-lightest: #00b086;
 }
 
+
+/* Screenshots in articles: framed, never wider than the text. */
+.markdown img{display:block;max-width:100%;height:auto;margin:1rem 0 1.5rem;border:1px solid var(--ifm-color-emphasis-200);border-radius:10px;box-shadow:0 2px 10px rgba(16,24,40,.06)}
