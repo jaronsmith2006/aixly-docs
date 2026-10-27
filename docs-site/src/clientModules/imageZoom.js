@@ -1,12 +1,21 @@
 // Screenshots in articles: shown at their real size (files named @2x are captured at double
 // resolution, so they're displayed at half their pixel width), and clicking one opens it full size.
+// The build adds a content hash to file names (x@2x-1a2b3c.webp), hence the [.-] after @2x.
+const RETINA = /@2x[.-]/;
 import ExecutionEnvironment from '@docusaurus/ExecutionEnvironment';
 
 const isShot = (el) => el && el.tagName === 'IMG' && el.closest('.markdown') && !el.closest('a');
 
+// Chat widget screenshots are tall (a phone-sized window): shown at most this tall in the article.
+const WIDGET_MAX_HEIGHT = 440;
+
 function size(img) {
-  if (!/@2x\./.test(img.currentSrc || img.src) || !img.naturalWidth) return;
-  img.style.width = `${Math.round(img.naturalWidth / 2)}px`;
+  const src = img.currentSrc || img.src;
+  if (!RETINA.test(src) || !img.naturalWidth) return;
+  let width = img.naturalWidth / 2;
+  const height = img.naturalHeight / 2;
+  if (/\/widget-[^/]*@2x[.-]/.test(src) && height > WIDGET_MAX_HEIGHT) width = (width * WIDGET_MAX_HEIGHT) / height;
+  img.style.width = `${Math.round(width)}px`;
 }
 
 function open(img) {
@@ -20,7 +29,7 @@ function open(img) {
   big.src = img.currentSrc || img.src;
   big.alt = img.alt || '';
   // Full resolution, but never wider or taller than the window.
-  if (/@2x\./.test(big.src) && img.naturalWidth) big.style.width = `${Math.round(img.naturalWidth / 2) * 1.5}px`;
+  if (RETINA.test(big.src) && img.naturalWidth) big.style.width = `${Math.round(img.naturalWidth / 2) * 1.5}px`;
   const close = document.createElement('button');
   close.type = 'button';
   close.className = 'shot-zoom-close';
