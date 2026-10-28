@@ -3,6 +3,15 @@ title: Changelog
 sidebar_position: 100
 ---
 
+## October 2026 (update 5)
+
+- **Add to cart from the chat**: shoppers ask, the assistant adds the right option and shows View cart and Checkout buttons
+- **Ask Aixly**: a support assistant on the Support page that answers from the help center, checks your setup and emails our team when you need a person
+- If the assistant can't answer for a moment, shoppers get a form to reach your team instead of an error
+- Order lookup only reads the order's email and phone to confirm it's the shopper's
+
+---
+
 ## October 2026 (update 4)
 
 - **Online / Away**: click your status on the Chats page to stop offering live chat while you're away from an open tab

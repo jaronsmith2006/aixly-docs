@@ -63,6 +63,15 @@ Missed-reply emails are only sent when the shopper left before your reply **and*
 
 ---
 
+## Order tracking can't find an order
+
+- The shopper needs the **order number** and the **email or phone used on that order**. **Settings → Order lookup** decides which one proves the order is theirs. Logged-in customers don't need either.
+- Only orders from the **last 60 days** can be looked up.
+- Test with a real order from your store, using the exact email on the order.
+- If the assistant says order information is **unavailable** for every order, contact us from **Support → Ask Aixly → Email our team** so we can check your store.
+
+---
+
 ## A return wasn't created in Shopify
 
 - **Settings → Order lookup → File return requests in Shopify** must be on, and the returns permission approved.

@@ -9,6 +9,14 @@ sidebar_position: 99
 
 Shopify admin → **Online Store → Themes → Customize → App embeds → Aixly AI Chatbot → Save**. The **Setup Guide** on the app's Dashboard links you there.
 
+### Can the assistant add products to the cart?
+
+Yes. When a shopper asks for it ("add the blue one", "yes please"), the assistant checks the option and stock, adds it to their cart and shows **View cart** and **Checkout** buttons. If the product has options the shopper hasn't picked (like a color or size), it asks first.
+
+### Where do I get help with Aixly?
+
+Open **Support → Ask Aixly** in the app. It answers from this help center and checks your store's setup (for example whether the chat is switched on in your theme). If it can't solve something, **Email our team** sends us your question with the details we need, and we reply by email.
+
 ### Does Aixly change my theme code?
 
 No. It uses a theme app embed, which you can switch off at any time.

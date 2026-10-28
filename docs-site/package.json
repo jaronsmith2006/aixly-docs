@@ -3,6 +3,7 @@
   "private": true,
   "version": "0.1.0",
   "scripts": {
+    "prebuild": "node scripts/build-help-index.mjs",
     "start": "npx docusaurus start --port 3002",
     "build": "npx docusaurus build",
     "serve": "npx docusaurus serve --port 3002",
