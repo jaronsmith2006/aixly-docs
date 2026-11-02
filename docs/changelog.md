@@ -3,6 +3,17 @@ title: Changelog
 sidebar_position: 100
 ---
 
+## November 2026
+
+- **New plans**: Free, Lite ($9.99), Basic ($19.99), Growth ($49.99), Pro ($99.99) and Scale ($199.99), with 50 to 5,000 AI conversations a month. See **Plans and billing**
+- **Fairer counting**: an AI conversation is one shopper helped within 24 hours, and it only counts when the AI answered from your store. Live chat, off-topic questions and "I don't know" answers are never counted
+- **The chat never disappears**: when a plan's conversations run out, the AI pauses and shoppers get a form to reach your team; live chat keeps working
+- **Extra conversations** on paid plans cost $0.10 down to $0.04 each, up to the monthly limit you approve in Shopify
+- **Team size by plan**: from 1 member on Free to unlimited on Scale
+- **Your price is locked** for as long as the app stays installed
+
+---
+
 ## October 2026 (update 5)
 
 - **Add to cart from the chat**: shoppers ask, the assistant adds the right option and shows View cart and Checkout buttons

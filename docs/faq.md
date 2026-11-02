@@ -89,6 +89,10 @@ Yes. Verified shoppers choose the items and reason, and a return request appears
 
 ## Plans & limits
 
+### What counts as an AI conversation?
+
+One shopper the AI helps within 24 hours, counted only when the AI answered from your store. A shopper who sends 20 messages in that time still counts once. Chats only your team answers, the "talk to the team" form, off-topic questions the AI turns away, and answers where the AI found nothing are never counted. See **Plans and billing**.
+
 ### What happens when my AI conversations run out?
 
 On the Free plan the AI pauses until your plan renews, but the chat stays on your store: shoppers get a form to reach your team, and live chat keeps working. On paid plans extra conversations are billed up to the monthly limit you approved. See **Plans** in the app.

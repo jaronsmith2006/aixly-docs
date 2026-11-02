@@ -18,6 +18,8 @@ Your team can answer chats from any browser with their own sign-in. They don't n
    - **Manager**: also teaches the assistant (Teach the assistant, Correct this answer) and sees unanswered questions.
 3. They open the link in the email (valid for 7 days, works once), enter their name and choose a password.
 
+How many people you can invite depends on your plan: Free 1, Lite 2, Basic 3, Growth 5, Pro 10, Scale unlimited. If you move to a smaller plan, everyone stays on the team, but you can't invite anyone new until you're under the limit. See **Plans and billing**.
+
 If email isn't set up for your store yet, the invitation link is shown so you can send it yourself with **Copy link**. Lost the email? Click **New link** next to the invitation (the old link stops working).
 
 ![Settings → Team](/img/screens/settings-team@2x.webp)

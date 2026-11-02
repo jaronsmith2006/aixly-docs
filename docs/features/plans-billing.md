@@ -26,6 +26,8 @@ Every plan has the full assistant: product answers, order tracking, add to cart,
 
 Paid plans include a **7-day free trial** and remove the small "Powered by Aixly" label from the chat.
 
+Not sure which plan fits? The [plan calculator on aixly.io](https://aixly.io/pricing#calculator) works it out from your monthly AI conversations and team size, including what extra conversations would cost.
+
 ---
 
 ## How conversations are counted
