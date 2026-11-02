@@ -15,7 +15,7 @@ sidebar_position: 1
 
 ## Widget disappeared after working earlier
 
-Most often your **Starter plan** monthly conversation limit was reached. Open **Plans** to upgrade, or wait until the period resets.
+Check that the Aixly app embed is still turned on in your theme (**Online Store → Themes → Customize → App embeds**) and that the launcher isn't turned off in **Appearance**. Running out of AI conversations doesn't hide the chat: the AI pauses and shoppers get a form to reach your team.
 
 ---
 

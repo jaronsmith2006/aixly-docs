@@ -11,106 +11,65 @@ sidebar_position: 11
 
 ## Available plans
 
-We offer five plans to fit stores of every size. All plans include unlimited impressions, no commissions, and all core features.
+Every plan has the full assistant: product answers, order tracking, add to cart, live chat, the team inbox and all languages. Plans differ in how many conversations the AI handles each month and how many team members you can invite. Live chat between your team and shoppers is unlimited on every plan.
 
 ![The Plans page](/img/screens/plans@2x.webp)
 
-### Starter — Free
+| Plan | Price | AI conversations a month | Extra conversations | Monthly limit on extras | Team members |
+|------|-------|--------------------------|---------------------|-------------------------|--------------|
+| Free | $0 | 50 | none: the AI pauses | none | 1 |
+| Lite | $9.99 | 120 | $0.10 each | $50 | 2 |
+| Basic | $19.99 | 350 | $0.08 each | $100 | 3 |
+| Growth | $49.99 | 1,000 | $0.06 each | $200 | 5 |
+| Pro | $99.99 | 2,500 | $0.05 each | $300 | 10 |
+| Scale | $199.99 | 5,000 | $0.04 each | $500 | Unlimited |
 
-- **Price:** $0/month
-- **Conversations:** 10 per month
-- **Features:** Unlimited impressions, no commissions, all core features, email support
-
-The Starter plan is a great way to try the app at no cost. If you reach the conversation limit, the storefront widget will pause until your billing period resets.
-
----
-
-### Basic — $9.99/month
-
-- **Price:** $9.99/month
-- **Free trial:** 7 days
-- **Conversations:** 100 per month
-- **Overage:** $0.20 per extra conversation (capped at $1,000/month)
-- **Features:** Everything in Starter, plus branding removed
-
-Best for new stores that want to remove the "Powered by" branding and handle moderate conversation volume.
-
----
-
-### Growth — $39.99/month *(Most Popular)*
-
-- **Price:** $39.99/month
-- **Free trial:** 7 days
-- **Conversations:** 500 per month
-- **Overage:** $0.15 per extra conversation (capped at $1,000/month)
-- **Features:** Everything in Basic, plus priority email support
-
-Best for growing stores with higher traffic and support needs.
-
----
-
-### Pro — $79.99/month
-
-- **Price:** $79.99/month
-- **Free trial:** 7 days
-- **Conversations:** 1,500 per month
-- **Overage:** $0.10 per extra conversation (capped at $1,000/month)
-- **Features:** Everything in Growth, plus priority support
-
-Best for high-volume stores that need reliable, high-capacity AI support.
-
----
-
-### Unlimited — $129/month
-
-- **Price:** $129/month
-- **Free trial:** 7 days
-- **Conversations:** Unlimited
-- **Features:** Everything in Pro with unlimited conversations and priority support
-
-Best for stores that want zero limits and no overage surprises.
+Paid plans include a **7-day free trial** and remove the small "Powered by Aixly" label from the chat.
 
 ---
 
 ## How conversations are counted
 
-A **conversation** is a session window of **30 minutes**. All messages exchanged between a visitor and the chatbot within a 30-minute window count as a single conversation. If the visitor returns after the window expires, a new conversation begins.
+An **AI conversation** is one shopper the AI helps within **24 hours**. A shopper who sends 20 messages in that time still counts once.
+
+These are **never counted**:
+
+- Chats that only your team answers (live chat)
+- The chat's "talk to the team" form
+- Questions the AI turns away as unrelated to your store
+- Answers where the AI found nothing in your store
+
+---
+
+## When you reach your plan's conversations
+
+- **Free plan:** the AI pauses until your plan renews. The chat stays on your store: shoppers get a form to reach your team, and live chat keeps working.
+- **Paid plans:** the AI keeps answering, and each extra conversation is billed at your plan's rate. Shopify asks you to approve a monthly limit on these extras when you choose the plan. If that limit is reached, the AI pauses until your plan renews, so you're never charged more than you approved.
+
+Extra charges appear in **Shopify Admin → Settings → Billing** and on the app's **Analytics** page.
 
 ---
 
 ## Free trials
 
-All paid plans (Basic, Growth, Pro, and Unlimited) include a **7-day free trial**. You will not be charged until the trial ends. You can cancel anytime during the trial from your Shopify Admin billing settings.
-
----
-
-## Overage billing
-
-Plans with overage billing (Basic, Growth, and Pro) charge a per-conversation fee once you exceed your monthly limit. Overage charges are capped so you are never billed more than **$1,000 in usage charges** in a single billing period.
-
-| Plan   | Overage per conversation | Monthly cap |
-|--------|--------------------------|-------------|
-| Basic  | $0.20                    | $1,000      |
-| Growth | $0.15                    | $1,000      |
-| Pro    | $0.10                    | $1,000      |
-
-Overage charges appear in:
-
-- **Shopify Admin → Settings → Billing**
-- The app’s **Analytics** page (Usage charges section)
+The trial is once per store. If you change plans during the trial, you keep the days you have left. You can cancel any time from the **Plans** page (switch to Free) or by uninstalling the app.
 
 ---
 
 ## Upgrading or downgrading
 
-You can change your plan at any time from the **Plans** page in the app. When you select a new plan, Shopify will ask you to confirm the subscription through its standard billing flow.
+Change your plan any time from the **Plans** page. Shopify asks you to confirm a paid plan on its own billing page. Switching to Free cancels the paid subscription right away.
+
+If you have more team members than a smaller plan includes, everyone stays on the team, but you can't invite anyone new until you're under the limit.
+
+---
+
+## Your price is locked
+
+If our prices change later, your plan keeps the price and limits you signed up with for as long as the app stays installed. If you uninstall and install again, you get the plans offered at that time.
 
 ---
 
 ## Usage and resets
 
-Your Plans page shows:
-
-- Current conversation usage for the billing period
-- The date your billing period resets
-
+Your **Plans** page shows how many AI conversations you've used this month and the date your plan renews. Counts reset on that date each month.

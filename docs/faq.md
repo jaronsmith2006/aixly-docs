@@ -89,9 +89,9 @@ Yes. Verified shoppers choose the items and reason, and a return request appears
 
 ## Plans & limits
 
-### Why did the widget disappear?
+### What happens when my AI conversations run out?
 
-Most often the Starter plan's monthly conversation limit was reached. Check **Plans** in the app.
+On the Free plan the AI pauses until your plan renews, but the chat stays on your store: shoppers get a form to reach your team, and live chat keeps working. On paid plans extra conversations are billed up to the monthly limit you approved. See **Plans** in the app.
 
 ### Does testing in Settings count toward my limit?
 
