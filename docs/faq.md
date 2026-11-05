@@ -95,7 +95,7 @@ One shopper the AI helps within 24 hours, counted only when the AI answered from
 
 ### What happens when my AI conversations run out?
 
-On the Free plan the AI pauses until your plan renews, but the chat stays on your store: shoppers get a form to reach your team, and live chat keeps working. On paid plans extra conversations are billed up to the monthly limit you approved. See **Plans** in the app.
+On the Free plan the AI pauses until your plan renews, but the chat stays on your store: shoppers get a form to reach your team, and live chat keeps working. On paid plans extra conversations are billed up to your plan's monthly limit, then the AI pauses the same way. See **Plans** in the app.
 
 ### Does testing in Settings count toward my limit?
 

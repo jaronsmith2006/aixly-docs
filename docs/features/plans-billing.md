@@ -13,8 +13,6 @@ sidebar_position: 11
 
 Every plan has the full assistant: product answers, order tracking, add to cart, live chat, the team inbox and all languages. Plans differ in how many conversations the AI handles each month and how many team members you can invite. Live chat between your team and shoppers is unlimited on every plan.
 
-![The Plans page](/img/screens/plans@2x.webp)
-
 | Plan | Price | AI conversations a month | Extra conversations | Monthly limit on extras | Team members |
 |------|-------|--------------------------|---------------------|-------------------------|--------------|
 | Free | $0 | 50 | none: the AI pauses | none | 1 |
@@ -46,7 +44,7 @@ These are **never counted**:
 ## When you reach your plan's conversations
 
 - **Free plan:** the AI pauses until your plan renews. The chat stays on your store: shoppers get a form to reach your team, and live chat keeps working.
-- **Paid plans:** the AI keeps answering, and each extra conversation is billed at your plan's rate. Shopify asks you to approve a monthly limit on these extras when you choose the plan. If that limit is reached, the AI pauses until your plan renews, so you're never charged more than you approved.
+- **Paid plans:** the AI keeps answering, and each extra conversation is billed at your plan's rate. Every plan has a monthly limit on these extras (see the table). If that limit is reached, the AI pauses until your plan renews, so you're never charged more than that.
 
 Extra charges appear in **Shopify Admin → Settings → Billing** and on the app's **Analytics** page.
 
@@ -54,13 +52,13 @@ Extra charges appear in **Shopify Admin → Settings → Billing** and on the ap
 
 ## Free trials
 
-The trial is once per store. If you change plans during the trial, you keep the days you have left. You can cancel any time from the **Plans** page (switch to Free) or by uninstalling the app.
+During the trial the AI uses your plan's included conversations and nothing is charged; extra conversations start after it. Shopify tracks trial days for each store, so reinstalling doesn't start a new trial. You can cancel any time by choosing Free on Shopify's plan page or by uninstalling the app.
 
 ---
 
 ## Upgrading or downgrading
 
-Change your plan any time from the **Plans** page. Shopify asks you to confirm a paid plan on its own billing page. Switching to Free cancels the paid subscription right away.
+Open **Plans** in the app and click **Change plan** (or **See paid plans**). This opens Shopify's plan page, where you compare, choose and approve plans. If you move to Free, your paid plan stays active until the end of the billing period you've paid for; the app shows the date.
 
 If you have more team members than a smaller plan includes, everyone stays on the team, but you can't invite anyone new until you're under the limit.
 
@@ -74,4 +72,6 @@ If our prices change later, your plan keeps the price and limits you signed up w
 
 ## Usage and resets
 
-Your **Plans** page shows how many AI conversations you've used this month and the date your plan renews. Counts reset on that date each month.
+![Plan & usage in the app: your plan, this month's AI conversations and what your plan includes](/img/screens/plans@2x.webp)
+
+**Plans** in the app shows your current plan, how many AI conversations you've used this month, what your plan includes and the date your plan renews. Counts reset on that date each month.
