@@ -52,7 +52,7 @@ Extra charges appear in **Shopify Admin → Settings → Billing** and on the ap
 
 ## Free trials
 
-During the trial the AI uses your plan's included conversations and nothing is charged. When the trial ends, your first billing month starts: your conversation count starts again from zero, and extra conversations can be billed from then. Shopify tracks trial days for each store, so reinstalling doesn't start a new trial. You can cancel any time by choosing Free on Shopify's plan page or by uninstalling the app.
+During the trial the AI uses your plan's included conversations and nothing is charged. A store gets one allowance for its trial: it doesn't renew during the trial, and changing plan or reinstalling doesn't start it again. If you run out, the AI pauses until the trial ends; contact us if you need more to finish testing. When the trial ends, your first billing month starts: your conversation count starts again from zero, and extra conversations can be billed from then. Shopify tracks trial days for each store, so reinstalling doesn't start a new trial. You can cancel any time by choosing Free on Shopify's plan page or by uninstalling the app.
 
 ---
 
