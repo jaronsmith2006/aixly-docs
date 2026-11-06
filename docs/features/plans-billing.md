@@ -60,6 +60,12 @@ During the trial the AI uses your plan's included conversations and nothing is c
 
 Open **Plans** in the app and click **Change plan** (or **See paid plans**). This opens Shopify's plan page, where you compare, choose and approve plans. If you move to Free, your paid plan stays active until the end of the billing period you've paid for; the app shows the date.
 
+Changing plan changes your limit, not your count. The conversations you've already used stay used until the date your current period would have ended:
+
+- **Moving up:** your new limit applies straight away, and what you've used counts towards it. If you've used 120 conversations and move to a plan with 350, you have 230 left.
+- **Moving down:** the conversations you've used still count. If you've already used more than the smaller plan includes, the AI pauses until your period ends. Your team and the contact form keep working.
+- **Cancelling, moving to Free or reinstalling:** none of these restart the count before that date.
+
 If you have more team members than a smaller plan includes, everyone stays on the team, but you can't invite anyone new until you're under the limit.
 
 ---
